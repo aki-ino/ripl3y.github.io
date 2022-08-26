@@ -9,19 +9,19 @@ html {
 
 body {
     background-color: #84a98c;
-    color: #cad2c5;
+    color: #52796f;
     font-family: 'Roboto Mono', monospace;
     font-size: 15px;
 }
 
 legend {
-    color: #cad2c5;
+    color: #52796f;
     font-size: 17px;
     font-weight: bold;
 }
 
 fieldset {
-    border: 1px solid #cad2c5;
+    border: 1px solid #52796f;
     box-sizing: border-box;
     margin-top: 5px;
     margin: 0;
@@ -39,13 +39,13 @@ h1 {
 }
 
 a {
-    color: #cad2c5;
+    color: #52796f;
     text-decoration: none;
-    border-bottom: 1px dashed #84a98c;
+    border-bottom: 1px dashed #52796f;
 }
 
 a:visited {
-    color: #cad2c5;
+    color: #52796f;
 }
 
 a:hover {
